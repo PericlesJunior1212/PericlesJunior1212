@@ -68,7 +68,13 @@ aligng="left"
 alt="NODE.JS"
 title="NODE.JS"
 width="30px"
-style="padding-right:10px;"                                                                                                                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+style="padding-right:10px;"                                                                                                                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /><img
+aligng="left"
+alt="LARAVEL"
+title="LARAVEL"
+width="30px"
+style="padding-right:10px;"                                                                                                                                                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+          
           
           
           
