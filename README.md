@@ -64,7 +64,8 @@ aligng="left"
 alt="MYSQL"
 title="MYSQL"
 width="30px"
-style="padding-right:10px;"                                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" /> <img 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" /> <img 
 aligng="left"
 alt="NODE.JS"
 title="NODE.JS"
@@ -74,8 +75,18 @@ aligng="left"
 alt="LARAVEL"
 title="LARAVEL"
 width="30px"
-style="padding-right:10px;"                                                                                                                                                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
-          
+style="padding-right:10px;"                                                                                                                                                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" /> <img 
+aligng="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right:10px;"                                                                                                                                                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img 
+aligng="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right:10px;"                                                                                                                                                                                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+                              
           
           
           
