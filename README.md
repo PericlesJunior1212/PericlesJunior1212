@@ -3,10 +3,6 @@
 **DESENVOLVEDOR BACKEND**
 -
 -
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PericlesJunior1212&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PericlesJunior1212&layout=donut)](https://github.com/PericlesJunior1212/github-readme-stats)
-
----
 
 🤖 Linguagens e Tecnologias
 
